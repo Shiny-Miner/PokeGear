@@ -4549,4 +4549,14 @@ extern const u16 gPokeStorageInterface_NoDisplayMon_Pal[];
 extern const u16 gDexScreen_TopMenuIconPals_AtoZ[];
 extern const u32 gDexScreen_TopMenuIconTiles_AtoZ[];
 
+
+// Pokegear/Clock
+extern const u32 gSetClock_Gfx[];
+extern const u16 gSetClock_Pal[];
+extern const u32 gSetClock_Map[];
+extern const u32 gPokegear_GridMap[];
+extern const u8 gPhoneCall_WindowGfx[0x100];
+extern const u16 gPhoneCall_WindowPal[16];
+extern const u32 gPhoneCall_IconGfx[];
+
 #endif //GUARD_GRAPHICS_H
